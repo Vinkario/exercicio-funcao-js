@@ -1,0 +1,22 @@
+body{
+    background-color: rgb(62, 27, 95);
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    margin: auto;
+    width: 900px;
+    height: 600px;
+    background-color: azure;
+    border-radius: 10px;
+}
+.container h1{
+    margin-bottom: 70px;
+    text-align: center;
+}
+
+.form input{
+    display:flow-root;
+    align-items: center;
+}
+

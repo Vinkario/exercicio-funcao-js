@@ -5,4 +5,4 @@ function media (nota1,nota2,nota3,nota4){
     return resultado
 }
 
-console.log(`A média entre as notas digitadas é: ${media(10,8,5,7)}`);
+//window.prompt('Digite dois ou mais numeros');
